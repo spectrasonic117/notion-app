@@ -20,7 +20,13 @@ module.exports = {
 		},
 		{
 			name: "@electron-forge/maker-rpm",
-			config: {},
+			config: {
+        config: {
+          options: {
+            icon: "icon.png",
+          },
+        },
+      },
 		},
 	],
 };

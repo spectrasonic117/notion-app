@@ -19,7 +19,7 @@ git clone https://github.com/spectrasonic117/notion-app.git
 2. Download the dependencies
 
 ```bash
-cd clickup-app
+cd notion-app
 npm i
 ```
 
